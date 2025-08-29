@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# PsychoPy backup and temporary experiment files
+*.psyexp-backup
+*.psyexp-prev
+*.psyexp~*
+
+# PsychoPy data folders (case-insensitive)
+data/
+
+
+# Environment and dependency folders
+.env/
+venv/
+.venv/
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
