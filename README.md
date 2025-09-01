@@ -16,7 +16,9 @@ It was created using PsychoPy Builder (v2024.1.1), but it also includes code com
 
 
 
-* In an increasing order of difficulty, participants are presented with arithmetic questions, for which they have 10 seconds to answer. The timer is visible on screen.
+* Arithmetic questions on screen.
+* Timed answers with visible timer.
+* Increasing difficulty.
 * The answer is given by typing on the keyboard and pressing enter.
 * If time runs out or the answer is incorrect, participants receive the feedback: Incorrect
 * The task is programmed to end after 5 minutes, regardless of how many questions are left.
@@ -79,19 +81,17 @@ The test is in English, but minimal language knowledge is needed.
 
 
 
-
-
 This program was developed as part of the MUSICONNECT project, funded by the European Research Council (ERC) under the European Union’s Horizon Europe research and innovation programme (grant agreement No 101045747).
 
 
 
 
 
-Citation
+# Citation
+
+Baltazar, M., \& Taipale, M. (2025, September 1). SIMA: Stress Inducing Mental Arithmetic task. Retrieved from [osf.io/5t2yh](osf.io/5t2yh)
 
 
-
----
 
 
 
