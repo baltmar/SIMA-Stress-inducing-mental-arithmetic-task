@@ -89,7 +89,7 @@ This program was developed as part of the MUSICONNECT project, funded by the Eur
 
 # Citation
 
-Baltazar, M., \& Taipale, M. (2025, September 1). SIMA: Stress Inducing Mental Arithmetic task. Retrieved from [osf.io/5t2yh](osf.io/5t2yh)
+Baltazar, M., \& Taipale, M. (2025, September 1). SIMA: Stress Inducing Mental Arithmetic task. Retrieved from [https://osf.io/5t2yh](https://osf.io/5t2yh)
 
 
 
